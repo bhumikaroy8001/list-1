@@ -1,0 +1,29 @@
+body{
+    font-family: Georgia, serif;
+    background-color: #eef7ff;
+}
+
+/* Header */
+.header{
+    background-color: #007efb;
+    color: white;
+    text-align: center;
+    padding: 18px;
+}
+
+/* Content */
+.content{
+    text-align: justify;
+    padding: 25px;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+/* Footer */
+.footer{
+    background-color: #30f257;
+    color: rgb(18, 18, 18);
+    text-align: center;
+    padding: 12px;
+    font-size: 14px;
+}

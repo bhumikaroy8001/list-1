@@ -1,0 +1,32 @@
+body{
+    font-family: "Trebuchet MS", sans-serif;
+    background-color: #fff3e6;
+}
+
+/* Header */
+.header{
+    background-color: #ff6600;
+    color: white;
+    text-align: left;
+    padding: 20px;
+}
+
+/* Content */
+.content{
+    text-align: center;
+    padding: 30px;
+}
+
+/* Image */
+.content img{
+    border: 5px solid #ff6600;
+    border-radius: 10px;
+}
+
+/* Footer */
+.footer{
+    background-color: #cc5200;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
